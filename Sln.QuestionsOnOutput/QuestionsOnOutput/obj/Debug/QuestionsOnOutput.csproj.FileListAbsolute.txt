@@ -3,3 +3,8 @@ G:\TheGitCloning\TMP\Sln.QuestionsOnOutput\QuestionsOnOutput\bin\Debug\Questions
 G:\TheGitCloning\TMP\Sln.QuestionsOnOutput\QuestionsOnOutput\bin\Debug\QuestionsOnOutput.pdb
 G:\TheGitCloning\TMP\Sln.QuestionsOnOutput\QuestionsOnOutput\obj\Debug\QuestionsOnOutput.exe
 G:\TheGitCloning\TMP\Sln.QuestionsOnOutput\QuestionsOnOutput\obj\Debug\QuestionsOnOutput.pdb
+G:\TheGitCloning\QuestionsOnOutput\Sln.QuestionsOnOutput\QuestionsOnOutput\bin\Debug\QuestionsOnOutput.exe.config
+G:\TheGitCloning\QuestionsOnOutput\Sln.QuestionsOnOutput\QuestionsOnOutput\obj\Debug\QuestionsOnOutput.exe
+G:\TheGitCloning\QuestionsOnOutput\Sln.QuestionsOnOutput\QuestionsOnOutput\obj\Debug\QuestionsOnOutput.pdb
+G:\TheGitCloning\QuestionsOnOutput\Sln.QuestionsOnOutput\QuestionsOnOutput\bin\Debug\QuestionsOnOutput.exe
+G:\TheGitCloning\QuestionsOnOutput\Sln.QuestionsOnOutput\QuestionsOnOutput\bin\Debug\QuestionsOnOutput.pdb
