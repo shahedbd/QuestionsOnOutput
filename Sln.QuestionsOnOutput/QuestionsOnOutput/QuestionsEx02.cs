@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace QuestionsOnOutput
 {
@@ -52,13 +51,15 @@ namespace QuestionsOnOutput
             bool b = false;
             a ^= b;
             Console.WriteLine(a);
-            Console.ReadLine();
         }
         //Output:
 
         public static void Question6()
         {
-
+            bool a = true;
+            bool b = false;
+            a |= b;
+            Console.WriteLine(a);
         }
         //Output:
 

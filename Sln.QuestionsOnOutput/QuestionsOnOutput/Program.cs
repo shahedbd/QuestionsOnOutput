@@ -15,9 +15,9 @@ namespace QuestionsOnOutput
 
             //QuestionsEx02.Question4();
 
-            QuestionsEx02.Question5();
+            //QuestionsEx02.Question5();
 
-            //QuestionsEx02.Question6();
+            QuestionsEx02.Question6();
 
             //QuestionsEx02.Question7();
 
