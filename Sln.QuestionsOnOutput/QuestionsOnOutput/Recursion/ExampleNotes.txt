@@ -1,0 +1,19 @@
+﻿
+
+MyFunction(0) = return 0 + MyFunction(1) + MyFunction(2)
+MyFunction(1) = return 1 + MyFunction(2) + MyFunction(3)
+MyFunction(2) = return 2 + MyFunction(3) + MyFunction(4)
+MyFunction(3) = return 3 + MyFunction(4) + MyFunction(5)
+
+
+MyFunction(4) = return 4
+MyFunction(5) = return 5
+
+Therefore,
+MyFunction(3) = return 3 + 4 + 5 which is 12
+MyFunction(2) = return 2 + 12 + 4 which is 18
+MyFunction(1) = return 1 + 18 + 12 which is 31
+MyFunction(0) = return 0 + 31 + 18 which is 49
+
+Answer is 49
+

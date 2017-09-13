@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QuestionsOnOutput.Recursion;
+using System;
 
 namespace QuestionsOnOutput
 {
@@ -7,6 +8,12 @@ namespace QuestionsOnOutput
         private static string result;
         static void Main(string[] args)
         {
+
+            RecursionEx.BeforePlusPlusAndLastPlusPlusResult02();
+            //RecursionEx.BeforePlusPlusAndLastPlusPlusResult01();
+
+            //var result2 = RecursionEx.MyFunction2(0);
+
             //QuestionsEx02.Question1();
 
             //QuestionsEx02.Question2();
@@ -17,7 +24,7 @@ namespace QuestionsOnOutput
 
             //QuestionsEx02.Question5();
 
-            QuestionsEx02.Question6();
+            //QuestionsEx02.Question6();
 
             //QuestionsEx02.Question7();
 
